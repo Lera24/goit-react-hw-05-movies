@@ -1,0 +1,11 @@
+.list {
+  font-weight: 500;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.item {
+  font-weight: normal;
+  display: inline;
+  margin-right: 7px;
+}

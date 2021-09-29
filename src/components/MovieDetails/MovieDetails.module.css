@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+}
+
+.image {
+  width: 200px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.subTitle {
+  font-weight: 500;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.desc {
+  display: block;
+  margin-bottom: 15px;
+}

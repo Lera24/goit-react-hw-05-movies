@@ -1,0 +1,16 @@
+.list {
+  padding-left: 0;
+  margin-left: 30px;
+  margin-top: 10px;
+  list-style-type: none;
+}
+
+.item {
+  border: 1px solid green;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: 500;
+}
